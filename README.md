@@ -1,2 +1,2 @@
-# logistical_regression_scratch
+# logistical-regression-scratch
 Implementing Logistical Regression from scratch as practice 
